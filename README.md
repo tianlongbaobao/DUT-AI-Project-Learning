@@ -1,20 +1,20 @@
 # DUT-AI-Project-Learning
 **From Math+AI club(School of Future Technology/Aritificial Intelligence) 2025-2-Spring**
 
-## 1.basic knowledge
+## 1.Basic Knowledge
 **pytorch/cuda/github/arxiv/google scholar**
 
 (1) How to use python to construct neural network?
            
-           ----pytorch
+----pytorch
 
 (2) How neural network  is computed?
 
-           ----cuda
+----cuda
 
 (3) How to find codes about neural network?
            
-           ----github
+----github
 
 (4) Where can I find the latest about ai?
            
