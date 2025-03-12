@@ -1,2 +1,4 @@
 # DUT-AI-Project-Learning
-Math+AI club 2025-2-Spring
+**From Math+AI club(School of Future Technology/Aritificial Intelligence) 2025-2-Spring**
+##
+1.Pytorch/cuda/github/arxiv/google scholar
