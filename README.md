@@ -27,3 +27,9 @@
 
 **feature extractor network/classification header**
 
+(1) How does neural network extract feature of images?
+           
+(2) How does classification header work?
+
+
+<font color=red size=8>Project:animal-10/cifar-100 classification</font>
