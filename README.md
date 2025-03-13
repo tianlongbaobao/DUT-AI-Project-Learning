@@ -32,4 +32,4 @@
 (2) How does classification header work?
 
 
-<font color=red size=8>Project:animal-10/cifar-100 classification</font>
+<font color="red" size=8>Project:animal-10/cifar-100 classification</font>
