@@ -6,23 +6,23 @@
 
 (1) How to use python to construct neural network?
            
-**----pytorch**
+* pytorch
 
 (2) How neural network  is computed?
 
-**----cuda**
+* cuda
 
 (3) How to find codes about neural network?
            
-**----github**
+* github
 
 (4) Where can I find the latest about ai?
            
-**----arxiv/google scholar**
+* arxiv/google scholar
 
 (5) New Operation System
 
-**----linux**
+* linux
 ## 2.Image Classification
 
 **feature extractor network/classification header**
@@ -31,4 +31,4 @@
            
 (2) How does classification header work?
 
-**<font color="red" size=8>Project:animal-10/cifar-100 classification</font>**
+**<font color="red" size=4>Project:animal-10/cifar-100 classification</font>**
