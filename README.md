@@ -3,7 +3,7 @@
 
 ## 1.Basic Knowledge
 
-**pytorch/cuda/github/arxiv/google scholar**
+**pytorch/cuda/github/arxiv/google scholar/linux**
 
 (1) How to use python to construct neural network?
            
