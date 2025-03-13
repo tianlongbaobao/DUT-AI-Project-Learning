@@ -19,6 +19,10 @@
 (4) Where can I find the latest about ai?
            
 **----arxiv/google scholar**
+
+(5) New Operation System
+
+**----linux**
 ## 2.Image Classification
 
 **feature extractor network/classification header**
