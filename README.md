@@ -31,4 +31,50 @@
            
 (2) How does classification header work?
 
-**<font color="red" size=4>Project:animal-10/cifar-100 classification</font>**
+### Project-1:animal-10/cifar-100 classification
+
+## 3.Object Detection
+
+**cls-head/bbox-head/class-head/one-stage/two-stage/anchor**
+
+(1) How does neural network find objects?
+
+(2) History and Future of object detection.
+
+### Project-2:COCO2017 Object Detection
+
+## 4.Transformer
+
+**attention/nlp**
+
+(1) Why transformer outstandings all of former nerual network structure?
+
+(2) How does transformer make nlp in a huge progress?
+
+(3) How does transformer make multi-model popular?
+
+### Project-3:ViT/DETR/a small lauguage model based on personal vocabulary library
+
+## 5.Segmentation
+
+**Instance Segmentation/Semantic Segmentation**
+
+(1)What is the difference between object detection and segmentation?
+
+(2) History and Future of segmentation.
+
+### Project-4 pascalvoc segmentation
+
+## 6.Generative AI
+
+**VAE/GAN**
+
+### Project-5 diffusion
+
+## 7.RNN/LSTM
+
+### Project-6 Mamba-Vision
+
+
+
+
