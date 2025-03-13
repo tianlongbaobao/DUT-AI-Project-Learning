@@ -12,7 +12,7 @@ nvidia-smi
 
 **check your gpu version and pytorch version to get the latest version of cuda**
 
-[pytorch](pytorch.org)
+[pytorch](https://pytorch.org)
 
 [nvidia-cuda](https://developer.nvidia.com/cuda-toolkit)
 
